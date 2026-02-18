@@ -327,3 +327,10 @@ Terima kasih telah melihat project ini! Jika dirasa helpful, jangan lupa untuk:
 *Semoga project ini bermanfaat dan bisa menjadi portofolio yang bagus* 🚀
 
 </div>
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rizky211010/Champion-Futsal-Manado.git
+git push -u origin main
